@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930771468146",
+    "project_id": "tugaskelompok-dbf3c",
+    "storage_bucket": "tugaskelompok-dbf3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930771468146:android:5372a71276614e06eb27eb",
+        "android_client_info": {
+          "package_name": "com.refin.aplikasikelompok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930771468146-to6trc21knh5slk30hvucicpi4lutn2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCHMo3o39fsS8Xdt2bUAqxYgSUKWYyCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930771468146-to6trc21knh5slk30hvucicpi4lutn2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
